@@ -88,4 +88,4 @@ Explore the Tableau dashboard [https://public.tableau.com/authoring/airbnb_priya
 
 🌐 LinkedIn: https://www.linkedin.com/in/priyanka-p-281a4a261/
 
-![](https://github.com/gopiashokan/Airbnb-Analysis/blob/main/tableau_dashboard.png)
+![](https://github.com/priyankapandiyarajan/Airbnb-Analysis/blob/main/Dashboard%201.png)
